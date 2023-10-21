@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/luanferreirab/landing-page-Super-Mario/blob/main/assets/mario-and-luigi.png" width="100%" />
+  <img src="https://github.com/luanferreirab/landing-page-Super-Mario/blob/main/assets/projeto super mario.png" width="100%" />
 </p>
 
 ## 💻 Projeto
